@@ -1,0 +1,45 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260820-202617-n6m9",
+      "title": "Carvis Onachrono",
+      "commanders": [
+        "Carvis Onachrono"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-08-20T10:26:17.000Z",
+      "dateEnd": "2026-08-20T11:11:53.227Z",
+      "dateLabel": "8/20/2026, 8:26:17 PM - 8/20/2026, 9:11:53 PM",
+      "url": "https://carvis-SnS.github.io/SnS-arcdps-log-reports/?report=20260820-202617-n6m9",
+      "summary": {
+        "borderlandsPct": 0.14754098360655737,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 52,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 25
+      }
+    }
+  ]
+}
