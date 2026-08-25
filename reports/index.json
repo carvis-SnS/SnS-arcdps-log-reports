@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260826-004704-1jdb",
+      "title": "Carvista",
+      "commanders": [
+        "Carvista"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-08-25T14:47:04.000Z",
+      "dateEnd": "2026-08-25T15:45:33.043Z",
+      "dateLabel": "8/26/2026, 12:47:04 AM - 8/26/2026, 1:45:33 AM",
+      "url": "https://carvis-SnS.github.io/SnS-arcdps-log-reports/?report=20260826-004704-1jdb",
+      "summary": {
+        "borderlandsPct": 0.14035087719298245,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 49,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260824-202632-vkzs",
       "title": "Carvis Ona Enge",
       "commanders": [
