@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260826-202332-9k88",
+      "title": "Carvista",
+      "commanders": [
+        "Carvista"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-08-26T10:23:32.000Z",
+      "dateEnd": "2026-08-26T11:54:05.372Z",
+      "dateLabel": "8/26/2026, 8:23:32 PM - 8/26/2026, 9:54:05 PM",
+      "url": "https://carvis-SnS.github.io/SnS-arcdps-log-reports/?report=20260826-202332-9k88",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 61,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260826-004704-1jdb",
       "title": "Carvista",
       "commanders": [
