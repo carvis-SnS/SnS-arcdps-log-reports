@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260830-004522-vn8h",
+      "title": "Quartz Tech",
+      "commanders": [
+        "Quartz Tech"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-08-29T14:45:22.000Z",
+      "dateEnd": "2026-08-29T15:54:31.922Z",
+      "dateLabel": "8/30/2026, 12:45:22 AM - 8/30/2026, 1:54:31 AM",
+      "url": "https://carvis-SnS.github.io/SnS-arcdps-log-reports/?report=20260830-004522-vn8h",
+      "summary": {
+        "borderlandsPct": 0.27586206896551724,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 42,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 15,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260828-203649-w5ir",
       "title": "Carvis Ona Enge, Carvista",
       "commanders": [
