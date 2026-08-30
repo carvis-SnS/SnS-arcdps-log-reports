@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260830-112553-3s8u",
+      "title": "Carvis The Mes",
+      "commanders": [
+        "Carvis The Mes"
+      ],
+      "guild": {
+        "id": "DFCC36EA-31D3-EB11-81AC-95DFE50946EB",
+        "name": "Immortals of the Mîsts",
+        "tag": "IoM"
+      },
+      "dateStart": "2026-08-30T01:25:53.000Z",
+      "dateEnd": "2026-08-30T02:29:20.830Z",
+      "dateLabel": "8/30/2026, 11:25:53 AM - 8/30/2026, 12:29:20 PM",
+      "url": "https://carvis-SnS.github.io/SnS-arcdps-log-reports/?report=20260830-112553-3s8u",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 40,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260830-004522-vn8h",
       "title": "Quartz Tech",
       "commanders": [
