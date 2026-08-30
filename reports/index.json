@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260831-002258-es8s",
+      "title": "Carvis Onachrono",
+      "commanders": [
+        "Carvis Onachrono"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-08-30T14:22:58.000Z",
+      "dateEnd": "2026-08-30T15:54:37.923Z",
+      "dateLabel": "8/31/2026, 12:22:58 AM - 8/31/2026, 1:54:37 AM",
+      "url": "https://carvis-SnS.github.io/SnS-arcdps-log-reports/?report=20260831-002258-es8s",
+      "summary": {
+        "borderlandsPct": 0.171875,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 53,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20260830-112553-3s8u",
       "title": "Carvis The Mes",
       "commanders": [
