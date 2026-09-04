@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260905-004003-cfkl",
+      "title": "Carvista, Cyrus The Tactician",
+      "commanders": [
+        "Carvista",
+        "Cyrus The Tactician"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-09-04T14:40:03.000Z",
+      "dateEnd": "2026-09-04T15:57:29.420Z",
+      "dateLabel": "9/5/2026, 12:40:03 AM - 9/5/2026, 1:57:29 AM",
+      "url": "https://carvis-SnS.github.io/SnS-arcdps-log-reports/?report=20260905-004003-cfkl",
+      "summary": {
+        "borderlandsPct": 0.22413793103448276,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 45,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260904-024305-z1w0",
       "title": "Carvista",
       "commanders": [
