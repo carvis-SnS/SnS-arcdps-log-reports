@@ -5,6 +5,44 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260924-010526-qlo5",
+      "title": "Carvista",
+      "commanders": [
+        "Carvista"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-09-23T15:05:26.000Z",
+      "dateEnd": "2026-09-23T15:59:54.815Z",
+      "dateLabel": "9/24/2026, 1:05:26 AM - 9/24/2026, 1:59:54 AM",
+      "url": "https://carvis-SnS.github.io/SnS-arcdps-log-reports/?report=20260924-010526-qlo5",
+      "summary": {
+        "borderlandsPct": 0.3157894736842105,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 9,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260923-005641-gpfd",
       "title": "Carvis Onachrono, Carvista",
       "commanders": [
