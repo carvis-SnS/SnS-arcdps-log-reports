@@ -1,9 +1,42 @@
 {
   "colorPalette": "electric-blue",
+  "axiTheme": "default",
+  "glass": false,
   "glassSurfaces": false,
-  "glassmorphic": false,
-  "axiDesign": false,
   "entries": [
+    {
+      "id": "20261002-005600-k100",
+      "title": "Carvis Onachrono",
+      "commanders": [
+        "Carvis Onachrono"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-10-01T14:56:00.000Z",
+      "dateEnd": "2026-10-01T15:52:01.564Z",
+      "dateLabel": "10/2/2026, 12:56:00 AM - 10/2/2026, 1:52:01 AM",
+      "url": "https://carvis-SnS.github.io/SnS-arcdps-log-reports/?report=20261002-005600-k100",
+      "summary": {
+        "borderlandsPct": 0.3023255813953488,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 29
+      }
+    },
     {
       "id": "20261001-031359-ry05",
       "title": "Carvista, Prezz Ashtonn",
