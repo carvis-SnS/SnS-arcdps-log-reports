@@ -5,6 +5,40 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20261003-002644-d3vi",
+      "title": "Carvis Onachrono, Iriiss Gravebloom",
+      "commanders": [
+        "Carvis Onachrono",
+        "Iriiss Gravebloom"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-10-02T14:26:44.000Z",
+      "dateEnd": "2026-10-02T16:07:38.207Z",
+      "dateLabel": "10/3/2026, 12:26:44 AM - 10/3/2026, 2:07:38 AM",
+      "url": "https://carvis-SnS.github.io/SnS-arcdps-log-reports/?report=20261003-002644-d3vi",
+      "summary": {
+        "borderlandsPct": 0.07894736842105263,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 70,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20261002-005600-k100",
       "title": "Carvis Onachrono",
       "commanders": [
